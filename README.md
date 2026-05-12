@@ -210,18 +210,5 @@ This repository also includes scripts for baseline models used in comparison:
 The corresponding implementations are in `src/main_he2rna.py`, `src/main_tRNASformer_sequoia.py`, `src/tformer_lin.py`, and `src/vit.py`.
 
 
-## Citation
-
-If RNA-FM is useful for your research, please cite our ICML 2026 paper:
-
-```bibtex
-@inproceedings{rnafm2026,
-  title     = {RNA-FM: Flow-Matching Generative Modeling for Genome-Wide RNA-Seq Prediction from Histopathology},
-  author    = {Song, Yixuan and co-authors},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
-  year      = {2026}
-}
-```
-
 
 
