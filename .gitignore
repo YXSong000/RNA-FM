@@ -5,6 +5,5 @@ rna_ckpts/
 *.pkl
 *.h5
 *.hdf5
-*.npy
 *.npz
 __pycache__/
