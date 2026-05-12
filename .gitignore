@@ -8,7 +8,6 @@ rna_ckpts/
 *.npy
 *.npz
 __pycache__/
-patient_splits/
 examples/
 images/
 README.md
