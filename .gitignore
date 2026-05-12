@@ -9,5 +9,4 @@ rna_ckpts/
 *.npz
 __pycache__/
 examples/
-images/
 README.md
