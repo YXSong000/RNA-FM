@@ -1,0 +1,14 @@
+bulk_rna/
+rna_ckpts/
+*.pt
+*.pth
+*.pkl
+*.h5
+*.hdf5
+*.npy
+*.npz
+__pycache__/
+patient_splits/
+examples/
+images/
+README.md
