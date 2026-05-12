@@ -24,7 +24,7 @@ _Histopathology whole-slide images (WSIs) are routinely acquired in clinical pra
 ## Overview
 
 <p align="center">
-  <img width="100%" src="./images/RNA-FM_overview.png" alt="RNA-FM overview">
+  <img width="100%" src="./images/overall_framwork.png" alt="RNA-FM overview">
 </p>
 
 
