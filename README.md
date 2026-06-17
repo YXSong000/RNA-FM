@@ -2,7 +2,7 @@
 
 ### Flow-Matching Generative Modeling for Genome-Wide RNA-Seq Prediction from Histopathology
 
-This repository contains the official implementation of our ICML 2026 paper.
+This repository contains the official implementation of our ICML 2026 paper: https://arxiv.org/pdf/2605.11622.
 
 <p align="right">
   <img align="right" width="410" src="./images/RNA-FM_teaser.png" alt="RNA-FM teaser">
